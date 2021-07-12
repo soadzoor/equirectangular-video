@@ -8,12 +8,16 @@
 	</head>
 	<body>
 		<div id="playGround"></div>
-		<video id="video" loop muted crossOrigin="anonymous" playsinline style="display:none">
+		<video id="video" loop muted crossOrigin="anonymous" playsinline preload="auto" style="display:none">
 			<source src="assets/videos/equirect_1080.mp4">
 		</video>
-		<video id="reversed-video" loop muted crossOrigin="anonymous" playsinline style="display:none">
+		<video id="reversed-video" loop muted crossOrigin="anonymous" playsinline preload="auto" style="display:none">
 			<source src="assets/videos/equirect_1080_reverse.mp4">
 		</video>
+		<div class="buttons">
+			<div id="lt" class="button">&lt;</div>
+			<div id="gt" class="button">&gt;</div>
+		</div>
 		<script src="js/app.bundle.js"></script>
 	</body>
 </html>
