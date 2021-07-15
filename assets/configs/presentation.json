@@ -13,68 +13,68 @@
 		}
 	},
 	{
-        "videoTimeStampStart": 20.32,
-        "videoTimeStampEnd": 27.97,
-        "duration": 7,
-        "cameraPropsAtStart": {
-            "u": -0.65,
-            "v": 1.71
-        },
-        "cameraPropsAtEnd": {
-            "u": -1.82,
-            "v": 1.76
-        }
-    },
+		"videoTimeStampStart": 20.32,
+		"videoTimeStampEnd": 27.97,
+		"duration": 7,
+		"cameraPropsAtStart": {
+			"u": -0.65,
+			"v": 1.71
+		},
+		"cameraPropsAtEnd": {
+			"u": -1.82,
+			"v": 1.76
+		}
+	},
 	{
-        "videoTimeStampStart": 27.97,
-        "videoTimeStampEnd": 28.3,
-        "duration": 0.33,
-        "cameraPropsAtStart": {
-            "u": -1.82,
-            "v": 1.76
-        },
-        "cameraPropsAtEnd": {
-            "u": -0.75,
-            "v": 1.75
-        }
-    },
-	{
-        "videoTimeStampStart": 28.3,
-        "videoTimeStampEnd": 31.3,
-        "duration": 5,
-        "cameraPropsAtStart": {
-            "u": -0.75,
-            "v": 1.75
-        },
-        "cameraPropsAtEnd": {
-            "u": -2.07,
-            "v": 1.82
-        }
-    },
-	{
-        "videoTimeStampStart": 31.3,
-        "videoTimeStampEnd": 28.3,
-        "duration": 1,
-        "cameraPropsAtStart": {
-            "u": -2.07,
-            "v": 1.82
-        },
-        "cameraPropsAtEnd": {
+		"videoTimeStampStart": 27.97,
+		"videoTimeStampEnd": 28.3,
+		"duration": 0.33,
+		"cameraPropsAtStart": {
+			"u": -1.82,
+			"v": 1.76
+		},
+		"cameraPropsAtEnd": {
 			"u": -0.75,
-            "v": 1.75
-        }
-    },
+			"v": 1.75
+		}
+	},
 	{
-        "videoTimeStampStart": 28.3,
-        "videoTimeStampEnd": 47.7,
-        "duration": 5,
-        "cameraPropsAtStart": {
-            "u": -0.75,
-            "v": 1.75
-        },
-        "cameraPropsAtEnd": {
+		"videoTimeStampStart": 28.3,
+		"videoTimeStampEnd": 31.3,
+		"duration": 5,
+		"cameraPropsAtStart": {
+			"u": -0.75,
+			"v": 1.75
+		},
+		"cameraPropsAtEnd": {
+			"u": -2.07,
+			"v": 1.82
+		}
+	},
+	{
+		"videoTimeStampStart": 31.3,
+		"videoTimeStampEnd": 28.3,
+		"duration": 1,
+		"cameraPropsAtStart": {
+			"u": -2.07,
+			"v": 1.82
+		},
+		"cameraPropsAtEnd": {
+			"u": -0.75,
+			"v": 1.75
+		}
+	},
+	{
+		"videoTimeStampStart": 28.3,
+		"videoTimeStampEnd": 47.7,
+		"duration": 5,
+		"cameraPropsAtStart": {
+			"u": -0.75,
+			"v": 1.75
+		},
+		"cameraPropsAtEnd": {
 			"u": 0.7,
-            "v": 1.32
-        }
-    }
+			"v": 1.32
+		}
+	}
 ]
