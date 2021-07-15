@@ -9,12 +9,13 @@
 	<body>
 		<div id="playGround"></div>
 		<video id="video" loop muted crossOrigin="anonymous" playsinline preload="auto" style="display:none">
-			<source src="assets/videos/equirect_480.mp4">
+			<source src="assets/videos/equirect_1080.mp4">
 		</video>
 		<video id="reversed-video" loop muted crossOrigin="anonymous" playsinline preload="auto" style="display:none">
-			<source src="assets/videos/equirect_480_reverse.mp4">
+			<source src="assets/videos/equirect_1080_reverse.mp4">
 		</video>
 		<div class="buttons vbox flexCenter">
+			<div id="showCurrentDetails" class="button hidden">Show Current Details</div>
 			<div class="vbox">
 				<input id="speedInput" type="range" min="0.1" max="10" value="1" step="0.1">
 				<output id="speedLabel">1</output>
