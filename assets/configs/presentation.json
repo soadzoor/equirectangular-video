@@ -1,24 +1,11 @@
 [
 	{
 		"videoTimeStampStart": 0,
-		"videoTimeStampEnd": 20.32,
-		"duration": 6,
+		"videoTimeStampEnd": 27.97,
+		"duration": 2,
 		"cameraPropsAtStart": {
 			"u": 0,
 			"v": 1.57
-		},
-		"cameraPropsAtEnd": {
-			"u": -0.65,
-			"v": 1.71
-		}
-	},
-	{
-		"videoTimeStampStart": 20.32,
-		"videoTimeStampEnd": 27.97,
-		"duration": 7,
-		"cameraPropsAtStart": {
-			"u": -0.65,
-			"v": 1.71
 		},
 		"cameraPropsAtEnd": {
 			"u": -1.82,
@@ -41,7 +28,7 @@
 	{
 		"videoTimeStampStart": 28.3,
 		"videoTimeStampEnd": 31.3,
-		"duration": 5,
+		"duration": 0.5,
 		"cameraPropsAtStart": {
 			"u": -0.75,
 			"v": 1.75
@@ -54,7 +41,7 @@
 	{
 		"videoTimeStampStart": 31.3,
 		"videoTimeStampEnd": 28.3,
-		"duration": 1,
+		"duration": 0.5,
 		"cameraPropsAtStart": {
 			"u": -2.07,
 			"v": 1.82
@@ -66,15 +53,275 @@
 	},
 	{
 		"videoTimeStampStart": 28.3,
-		"videoTimeStampEnd": 47.7,
-		"duration": 5,
+		"videoTimeStampEnd": 31.3,
+		"duration": 0.5,
 		"cameraPropsAtStart": {
 			"u": -0.75,
 			"v": 1.75
 		},
 		"cameraPropsAtEnd": {
-			"u": 0.7,
-			"v": 1.32
+			"u": -2.07,
+			"v": 1.82
+		}
+	},
+	{
+		"videoTimeStampStart": 31.3,
+		"videoTimeStampEnd": 28.3,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -2.07,
+			"v": 1.82
+		},
+		"cameraPropsAtEnd": {
+			"u": -0.75,
+			"v": 1.75
+		}
+	},
+	{
+		"videoTimeStampStart": 28.3,
+		"videoTimeStampEnd": 31.3,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -0.75,
+			"v": 1.75
+		},
+		"cameraPropsAtEnd": {
+			"u": -2.07,
+			"v": 1.82
+		}
+	},
+	{
+		"videoTimeStampStart": 31.3,
+		"videoTimeStampEnd": 28.3,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -2.07,
+			"v": 1.82
+		},
+		"cameraPropsAtEnd": {
+			"u": -0.75,
+			"v": 1.75
+		}
+	},
+	{
+		"videoTimeStampStart": 28.3,
+		"videoTimeStampEnd": 46.78,
+		"duration": 1.5,
+		"cameraPropsAtStart": {
+			"u": -0.75,
+			"v": 1.75
+		},
+		"cameraPropsAtEnd": {
+			"u": -1.46,
+			"v": 1.79
+		}
+	},
+	{
+		"videoTimeStampStart": 46.78,
+		"videoTimeStampEnd": 48,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -1.46,
+			"v": 1.79
+		},
+		"cameraPropsAtEnd": {
+			"u": -0.97,
+			"v": 1.81
+		}
+	},
+	{
+		"videoTimeStampStart": 48,
+		"videoTimeStampEnd": 46.78,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -0.97,
+			"v": 1.81
+		},
+		"cameraPropsAtEnd": {
+			"u": -2.02,
+			"v": 1.78
+		}
+	},
+	{
+		"videoTimeStampStart": 46.78,
+		"videoTimeStampEnd": 48,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -2.02,
+			"v": 1.78
+		},
+		"cameraPropsAtEnd": {
+			"u": -0.97,
+			"v": 1.81
+		}
+	},
+	{
+		"videoTimeStampStart": 48,
+		"videoTimeStampEnd": 46.78,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -0.97,
+			"v": 1.81
+		},
+		"cameraPropsAtEnd": {
+			"u": -2.02,
+			"v": 1.78
+		}
+	},
+	{
+		"videoTimeStampStart": 46.78,
+		"videoTimeStampEnd": 48,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -2.02,
+			"v": 1.78
+		},
+		"cameraPropsAtEnd": {
+			"u": -0.97,
+			"v": 1.81
+		}
+	},
+	{
+		"videoTimeStampStart": 48,
+		"videoTimeStampEnd": 46.78,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -0.97,
+			"v": 1.81
+		},
+		"cameraPropsAtEnd": {
+			"u": -2.02,
+			"v": 1.78
+		}
+	},
+	{
+		"videoTimeStampStart": 46.78,
+		"videoTimeStampEnd": 59,
+		"duration": 3,
+		"cameraPropsAtStart": {
+			"u": -2.02,
+			"v": 1.78
+		},
+		"cameraPropsAtEnd": {
+			"u": 0.29,
+			"v": 1.73
+		}
+	},
+	{
+		"videoTimeStampStart": 59,
+		"videoTimeStampEnd": 79,
+		"duration": 3,
+		"cameraPropsAtStart": {
+			"u": 0.29,
+			"v": 1.73
+		},
+		"cameraPropsAtEnd": {
+			"u": -3.78,
+			"v": 1.55
+		}
+	},
+	{
+		"videoTimeStampStart": 79,
+		"videoTimeStampEnd": 80,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -3.78,
+			"v": 1.55
+		},
+		"cameraPropsAtEnd": {
+			"u": -4.365,
+			"v": 1.61
+		}
+	},
+	{
+		"videoTimeStampStart": 80,
+		"videoTimeStampEnd": 79,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -4.365,
+			"v": 1.61
+		},
+		"cameraPropsAtEnd": {
+			"u": -3.78,
+			"v": 1.55
+		}
+	},
+	{
+		"videoTimeStampStart": 79,
+		"videoTimeStampEnd": 80,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -3.78,
+			"v": 1.55
+		},
+		"cameraPropsAtEnd": {
+			"u": -4.365,
+			"v": 1.61
+		}
+	},
+	{
+		"videoTimeStampStart": 80,
+		"videoTimeStampEnd": 79,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -4.365,
+			"v": 1.61
+		},
+		"cameraPropsAtEnd": {
+			"u": -3.78,
+			"v": 1.55
+		}
+	},
+	{
+		"videoTimeStampStart": 79,
+		"videoTimeStampEnd": 80,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -3.78,
+			"v": 1.55
+		},
+		"cameraPropsAtEnd": {
+			"u": -4.365,
+			"v": 1.61
+		}
+	},
+	{
+		"videoTimeStampStart": 80,
+		"videoTimeStampEnd": 79,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -4.365,
+			"v": 1.61
+		},
+		"cameraPropsAtEnd": {
+			"u": -3.78,
+			"v": 1.55
+		}
+	},
+	{
+		"videoTimeStampStart": 79,
+		"videoTimeStampEnd": 80,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -3.78,
+			"v": 1.55
+		},
+		"cameraPropsAtEnd": {
+			"u": -4.365,
+			"v": 1.61
+		}
+	},
+	{
+		"videoTimeStampStart": 80,
+		"videoTimeStampEnd": 79,
+		"duration": 0.5,
+		"cameraPropsAtStart": {
+			"u": -4.365,
+			"v": 1.61
+		},
+		"cameraPropsAtEnd": {
+			"u": -3.78,
+			"v": 1.55
 		}
 	}
 ]
